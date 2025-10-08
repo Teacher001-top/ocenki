@@ -5,7 +5,7 @@
 | 2  | Бобин         | Вадим     | 2   | - пытался сделать, заболел          
 | 3  | Гарсиев       | Илья      | 2   | - не был не на одном занятии        
 | 4  | Демина        | Софья     | 2   | - не была не на одном занятии       
-| 5  | Дученко       | Кирилл    | 4   | - отказался от инд задания       
+| 5  | Дученко       | Кирилл    | 4   | - отказался от инд задания 1. **Задание 1:** [ТЫК](https://github.com/Kestres/repositoriy)2. **Задание 2:** [ТЫК](https://github.com/Kestres/Feroi) 3. **Задание 3:** [ТЫК](https://github.com/Kestres/my-first-projects)4. **Задание 4:** [ТЫК](https://github.com/Kestres/task_2_1.html)5. **Задание 5:** [ТЫК](https://github.com/Fedor815/Samurai)6. **Задание 6:** [ТЫК](https://github.com/student2/task6)     
 | 6  | Иванов        | Роман     | 4   | - отказался от инд задания     
 | 7  | Игошин        | Евгений   | 3   | - пришел на два занятия         
 | 8  | Карпов        | Александр | 4   | - отказался от инд задания         
@@ -21,9 +21,9 @@
 | 18 | Мустафаев     | Ясин      | 2   | - пришел на одно занятие  
 | 19 | Овчинников    | Артём     | 5 ✔️| - взял инд задание        
 | 20 | Ревягин       | Фёдор     | 4   | - отказался от инд задания              
-| 21 | Савчук        | Александр | 4   | - отказался от инд задания             
+| 21 | Савчук        | Александр | 4   | - отказался от инд задания 1. **Задание 1:** [ТЫК](https://github.com/wfhalyava97-cpu/sttwt_our_repo.git)2. **Задание 2:** [ТЫК](https://github.com/wfhalyava97-cpu/task_003.git) 3. **Задание 3:** [ТЫК](https://github.com/wfhalyava97-cpu/task-003.1.git)4. **Задание 4:** [ТЫК](https://github.com/wfhalyava97-cpu/our_repo_7.git)5. **Задание 5:** [ТЫК](https://github.com/wfhalyava97-cpu/Task-completion-structure.git)6. **Задание 6:** [ТЫК](https://github.com/wfhalyava97-cpu/final-reports.git)            
 | 22 | Субботин      | Владимир  | 4   | - отказался от инд задания           
 | 23 | Татаринов     | Вячеслав  |     | болел, делает 
 | 24 | Цыкин         | Илья      | 3   | - болел, пришел старался
-| 25 | Чернаков      | Денис     | 5 ✔️| - взял инд задание        
+| 25 | Чернаков      | Денис     | 5 ✔️| - взял инд задание 1. **Задание 1:** [ТЫК](https://github.com/wfhalyava97-cpu/sttwt_our_repo.git)2. **Задание 2:** [ТЫК](https://github.com/wfhalyava97-cpu/task_003.git) 3. **Задание 3:** [ТЫК](https://github.com/wfhalyava97-cpu/task-003.1.git)4. **Задание 4:** [ТЫК](https://github.com/wfhalyava97-cpu/our_repo_7.git)5. **Задание 5:** [ТЫК](https://github.com/wfhalyava97-cpu/Task-completion-structure.git)6. **Задание 6:** [ТЫК](https://github.com/wfhalyava97-cpu/final-reports.git)        
 | 26 | Шелков        | Данила    | 5 ✔️| - взял инд задание1. **Задание 1:** [ТЫК](https://github.com/Dedyretti/Lprojec)2. **Задание 2:** [ТЫК](https://github.com/Dedyretti/OBJV2)3. **Задание 3:** [ТЫК](https://github.com/Dedyretti/Task-3)4. **Задание 4:** [ТЫК](https://github.com/Dedyretti/my-first-project)5. **Задание 5:** [ТЫК](https://github.com/Dedyretti/task-001)6. **Задание 6:** [ТЫК](https://github.com/Dedyretti/Task-completion-structure)7. **Задание 7:** [ТЫК]8. **Задание 8:** [ТЫК](https://github.com/Dedyretti/final-reports)        
