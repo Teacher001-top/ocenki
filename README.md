@@ -26,4 +26,11 @@
 | 23 | Татаринов     | Вячеслав  |     | болел, делает 
 | 24 | Цыкин         | Илья      | 3   | - болел, пришел старался
 | 25 | Чернаков      | Денис     | 5 ✔️| - взял инд задание        
-| 26 | Шелков        | Данила    | 5 ✔️| - взял инд задание        
+| 26 | Шелков        | Данила    | 5 ✔️| - взял инд задание1. **Задание 1:** [ТЫК](https://github.com/Dedyretti/Lprojec)
+2. **Задание 2:** [ТЫК](https://github.com/Dedyretti/OBJV2)
+3. **Задание 3:** [ТЫК](https://github.com/Dedyretti/Task-3)
+4. **Задание 4:** [ТЫК](https://github.com/Dedyretti/my-first-project)
+5. **Задание 5:** [ТЫК](https://github.com/Dedyretti/task-001)
+6. **Задание 6:** [ТЫК](https://github.com/Dedyretti/Task-completion-structure)
+7. **Задание 7:** [ТЫК]
+8. **Задание 8:** [ТЫК](https://github.com/Dedyretti/final-reports)        
