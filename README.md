@@ -29,7 +29,4 @@
 | 25 | Чернаков | Денис | 🏆 5 | Git, HTML, CSS, Markdown | 95% | Взял инд задание | 🔗 [Задание 1](https://github.com/wfhalyava97-cpu/sttwt_our_repo.git) • [Задание 2](https://github.com/wfhalyava97-cpu/task_003.git) • [Задание 3](https://github.com/wfhalyava97-cpu/task-003.1.git) • [Задание 4](https://github.com/wfhalyava97-cpu/our_repo_7.git) • [Задание 5](https://github.com/wfhalyava97-cpu/Task-completion-structure.git) • [Задание 6](https://github.com/wfhalyava97-cpu/final-reports.git) |
 | 26 | Шелков | Данила | 🏆 5 | Git, HTML, CSS, JavaScript | 98% | Взял инд задание | 🔗 [Задание 1](https://github.com/Dedyretti/Lprojec) • [Задание 2](https://github.com/Dedyretti/OBJV2) • [Задание 3](https://github.com/Dedyretti/Task-3) • [Задание 4](https://github.com/Dedyretti/my-first-project) • [Задание 5](https://github.com/Dedyretti/task-001) • [Задание 6](https://github.com/Dedyretti/Task-completion-structure) • [Задание 8](https://github.com/Dedyretti/final-reports) |
 
----
 
-## ⚠️ **Примечание:**
-У 23 студентов указан технический стек, но процент освоения установлен в 0%, так как работы не были оценены по техническим критериям или не продемонстрировали достаточного уровня владения технологиями.
