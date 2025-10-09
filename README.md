@@ -32,4 +32,4 @@
 
 **Авторы таблицы:** 
 - Шелков Данила 25ИС (GitHub: [Dedyretti](https://github.com/Dedyretti))
-- Бобошко Михаил (GitHub: [teacher-Top001](https://github.com/teacher-Top001))
+- Бобошко Михаил (GitHub: [Teacher001-top](https://github.com/Teacher001-top))
